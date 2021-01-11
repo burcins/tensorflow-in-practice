@@ -3,7 +3,7 @@ Coursera-Specialization
 
 This specialization program includes 4 courses to get hands-on experience on TensorFlow in various fields just like computer vision, NLP with the helps of applications of CNNs, RNNs, LSTMs, GRUs.
 
-I did not get the certificate of the courses because of my subscription type, but since I did all excercises, I would prefer to share in here.
+I did not get the certificate of the courses because of my subscription type, but since I did all exercises, I would prefer to share in here. But, it is better to mention that, since I didn't submit the exercises to Coursera to get grades, I run all in my local computer, so sum codes may be differ from its original versions, like file uploads or file reading steps. 
 
 The courses are;
 
